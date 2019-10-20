@@ -1,0 +1,6 @@
+.classpath
+*.sw[a-z]
+.project
+.settings/
+target/
+
